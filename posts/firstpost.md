@@ -1,29 +1,22 @@
 ---
 title: Scythe - Stonemaier Games 
-description: Strategies for Scythe 
-date: 2018-05-01
-tags: Strategy
+description: Scythe Game Review 
+date: 2022-05-01
+tags: Strategy Game
   - Faction vs Faction
-  - Engine Builder 
+  - Engine-Builder 
   - Territory Builder
 layout: layouts/post.njk
 ---
+## What is Scythe 
+Scythe is an engine-building game created by Stonemaier games. Set in an alternate-history of the 1920's, 5 factions in Eastern Europe vye for wealth and power of the mysterious factory. Players will take control of a faction and build sturctures, activate mechs, enlist recruits, and collect resources in their pursuit of money. 
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Each player begins the game by getting a random faction and player mat. Everyone begins the game with different resources (power, coins, combat acumen, and popularity), a different starting location, and a hidden goal. The players starting locations are dependent on what faction they are as each factions starting point is tailored to the unique abilities of each faction. Players can upgrade actions to become more efficient, build structures that improve their position on the map, enlist new recruits to enhance character abilities, activate mechs to deter opponents from invading, and expand their borders to reap greater types and quantities of resources. This truly is an engine-building game at its core. 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Review 
+If you like strategy games that limit luck, this game is for you. No matter what faction-mat combonation you get you can build up and have a successful set-up. This sets up a nice sense of progression as the game continues. Other than each player’s individual hidden objective card, the only elements of luck or variability are “encounter” cards that players will draw as they interact with the citizens. Each encounter card provides the player with several options, allowing them to choose their strategy and decrease the sense of luck through their selection and have powerful effects. 
 
-## Section Header
+Combat is done excellently too. All decicions in fights are based on a players strategy. No fight is accidental and each player can tailor their strategy to the fights themselves. Considering each game will play different than the last this game has great replayability without getting too dull or boring. Strategies are ever-evolving and expansions add even more ways to play.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+#### Overall Grade 
+# 9/10
