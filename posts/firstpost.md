@@ -1,9 +1,11 @@
 ---
-title: About the Creator
-description: Who Maxwell Sloan Is
+title: Scythe - Stonemaier Games 
+description: Strategies for Scythe 
 date: 2018-05-01
-tags:
-  - another tag
+tags: Strategy
+  - Faction vs Faction
+  - Engine Builder 
+  - Territory Builder
 layout: layouts/post.njk
 ---
 
