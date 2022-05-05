@@ -1,13 +1,13 @@
 ---
-title: This is my second post.
+title: Aeons End - Action Phase Board Games
 description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
-tags:
-  - number 2
+date: 2022-05-04
+tags: Cooperative Game 
+  - Deck-Building
+  - Strategy 
+  - Hand Management 
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
 ## Section Header
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
