@@ -8,7 +8,7 @@ tags: Cooperative Game
   - Hand Management 
 layout: layouts/post.njk
 ---
-## Section Header
-Aeons End is a cooperative deck-building game made by Action Phase Board Games. After a group of citizens were forced to take refuge in an underground city called Gravehold they learned to harness the power that was there. Still being attacked by the Nameless and their powerful spells
+## What is Aeons End
+Aeons End is a cooperative deck-building game made by Action Phase Board Games. After a group of citizens were forced to take refuge in an underground city called Gravehold they learned to harness the power that was there. Still being attacked by the Nameless and their powerful spells the city relies on their last defense, the Breach Mages. Led by Brama these mages use the power of the crystals to fight back and defend their city. 
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
