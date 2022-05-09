@@ -19,7 +19,7 @@ On your turn, you must choose a single action to perform. If that action carries
 At the end of 3 ages whomever has the most glory is the winner. 
 
 ## Review 
-I adore this game. It limits luck and forces you to adapt strategies quickly. The cards synergize well together if you can make them and allows for creative strategy. The norse mythology theme works well too and this is brought to life in the miniatures. The miniatures may be the best in board games and if you really want to take the beatiful design to the next level you can even paint them. Everything about this game excites me and keeps me playing. 
+I adore this game. It limits luck and forces you to adapt strategies quickly. The cards synergize well together if you can make them and allows for creative strategy. The norse mythology theme works well too and this is brought to life in the miniatures. The miniatures may be the best in board games and if you really want to take the beatiful design to the next level you can even paint them. Everything about this game excites me and will keep me playing. 
 
 #### Overall Grade 
 # 9.5/10
