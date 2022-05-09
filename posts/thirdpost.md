@@ -8,15 +8,19 @@ tags: Strategy Game
   - Territory Builder
 layout: layouts/post.njk
 ---
-## What is Scythe 
-Scythe is an engine-building game created by Stonemaier games. Set in an alternate-history of the 1920's, 5 factions in Eastern Europe vye for wealth and power of the mysterious factory. Players will take control of a faction and build sturctures, activate mechs, enlist recruits, and collect resources in their pursuit of money. 
 
-Each player begins the game by getting a random faction and player mat. Everyone begins the game with different resources (power, coins, combat acumen, and popularity), a different starting location, and a hidden goal. The players starting locations are dependent on what faction they are as each factions starting point is tailored to the unique abilities of each faction. Players can upgrade actions to become more efficient, build structures that improve their position on the map, enlist new recruits to enhance character abilities, activate mechs to deter opponents from invading, and expand their borders to reap greater types and quantities of resources. This truly is an engine-building game at its core. 
+## What is Blood Rage
+Blood Rage is a player versus player card-drafting game made by Cool Mini or Not for 2 to 4 people. Take control of a clan of vikings, pillage towns, and serve the Gods to gain the most glory! Afterall, what is a vikings life without glory?
+
+Players start by selecting one of four viking clans to lead and take their respective miniatures with it (1 leader, 8 warriors, 1 ship). The clans do not differ in anything besides aesthetic. Mechanically they play the same. Take all the Pillage tokens and place the one with the green border on the Yggdrasil province at the center of the board, with the reward side facing up. Shuffle the other 8 Pillage tokens and place them randomly on the other 8 provinces surrounding Yggdrasil, face up. The Pillage tokens show the reward you get for pillaging that province. Players then all get dealt 8 cards. Players proceed to take one card and pass the remainging cards in hand to the left. Players do this until all players have 6 cards. Discard the remaining cards. Now the action phase starts, where the majority of the game takes place. 
+
+All players begin the Action phase with the amount of Rage indicated by the Rage stat on their clan sheet. If this is the first Age, you've already taken care of this by placing your Clan token at 6 Rage during setup. In subsequent Ages, if you have improved your clan's Rage stat, you will begin the Action phase with more Rage.
+On your turn, you must choose a single action to perform. If that action carries a cost in Rage (it usually does), you must pay that cost and then take your action. Move the token on your clan's Rage Track to indicate how much Rage you've spent. If you do not have enough Rage to fully pay for a particular action, you cannot take that action. Once you run out of rage you can not take any more actions, even if it cost 0 rage. Once all players have depleted their rage or all villages have been pillages the age ends. Players discard down to one card, settle quests, destroy a province with Ragnarok, and get all of their characters back from Vahalla (graveyard). As you advance into the next age draft new cards the same way you began to play and proceed the same way. 
+
+At the end of 3 ages whomever has the most glory is the winner. 
 
 ## Review 
-If you like strategy games that limit luck, this game is for you. No matter what faction-mat combonation you get you can build up and have a successful set-up. This sets up a nice sense of progression as the game continues. Other than each player’s individual hidden objective card, the only elements of luck or variability are “encounter” cards that players will draw as they interact with the citizens. Each encounter card provides the player with several options, allowing them to choose their strategy and decrease the sense of luck through their selection and have powerful effects. 
-
-Combat is done excellently too. All decicions in fights are based on a players strategy. No fight is accidental and each player can tailor their strategy to the fights themselves. Considering each game will play different than the last this game has great replayability without getting too dull or boring. Strategies are ever-evolving and expansions add even more ways to play.
+I adore this game. It limits luck and forces you to adapt strategies quickly. The cards synergize well together if you can make them and allows for creative strategy. The norse mythology theme works well too and this is brought to life in the miniatures. The miniatures may be the best in board games and if you really want to take the beatiful design to the next level you can even paint them. Everything about this game excites me and will keep me playing. 
 
 #### Overall Grade 
-# 9/10
+# 9.5/10
