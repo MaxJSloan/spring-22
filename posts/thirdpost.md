@@ -1,21 +1,25 @@
 ---
 title: Blood Rage - Cool Mini or Not 
-description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
-tags:
-  - second tag
-  - posts with two tags
+description: Blood Rage Board Game Review
+date: 2022-05-6
+tags: Card Drafting
+  - Norse Mythology
+  - PvP
+  - Minatures
 layout: layouts/post.njk
 ---
-## What is Aeons End
-Aeons End is a cooperative deck-building game made by Action Phase Board Games for 2-4 players. After a group of citizens were forced to take refuge in an underground city called Gravehold they learned to harness the power that was there. Still being attacked by the Nameless and their powerful spells the city relies on their last defense, the Breach Mages. Led by Brama these mages use the power of the crystals to fight back and defend their city. 
+## What is Blood Rage
+Blood Rage is a player versus player card-drafting game made by Cool Mini or Not for 2 to 4 people. Take control of a clan of vikings, pillage towns, and serve the Gods to gain the most glory! Afterall, what is a vikings life without glory?
 
-Players start the game by selecting the mages they want to play from the mage pool and gathering their respective starting cards. The players then choose the supply cards consisting of 3 Gems, 2 Relics, and 4 Spells to be the community pool available for purchase. Finally to finish set up, the players will choose which monster they want to fight and get the cards needed for that boss. 
+Players start by selecting one of four viking clans to lead and take their respective miniatures with it (1 leader, 8 warriors, 1 ship). The clans do not differ in anything besides aesthetic. Mechanically they play the same. Take all the Pillage tokens and place the one with the green border on the Yggdrasil province at the center of the board, with the reward side facing up. Shuffle the other 8 Pillage tokens and place them randomly on the other 8 provinces surrounding Yggdrasil, face up. The Pillage tokens show the reward you get for pillaging that province. Players then all get dealt 8 cards. Players proceed to take one card and pass the remainging cards in hand to the left. Players do this until all players have 6 cards. Discard the remaining cards. Now the action phase starts, where the majority of the game takes place. 
 
-Players shuffle the turn order deck and flip over a card and perform their turn when their card flips. In the deck they're will be 1 card for every player and 2 for the monster. On the players turn they have a variety of actions inlcuding buying cards, prepping spells, casting spells, or using their ability. On the monster's turn the players flip over a card from the nemesis deck and follow the instructions given on the card. Once the turn order cards are all use, shuffle the deck and repeat the steps above. For the most part, players win when they do enough damage to the monster to reduce its health to 0 or make the nemesis deck run out of acrs, and lose when the monster achieves its win condition or all players health is reduced to 0. 
+All players begin the Action phase with the amount of Rage indicated by the Rage stat on their clan sheet. If this is the first Age, you've already taken care of this by placing your Clan token at 6 Rage during setup. In subsequent Ages, if you have improved your clan's Rage stat, you will begin the Action phase with more Rage.
+On your turn, you must choose a single action to perform. If that action carries a cost in Rage (it usually does), you must pay that cost and then take your action. Move the token on your clan's Rage Track to indicate how much Rage you've spent. If you do not have enough Rage to fully pay for a particular action, you cannot take that action. Once you run out of rage you can not take any more actions, even if it cost 0 rage. Once all players have depleted their rage or all villages have been pillages the age ends. Players discard down to one card, settle quests, destroy a province with Ragnarok, and get all of their characters back from Vahalla (graveyard). As you advance into the next age draft new cards the same way you began to play and proceed the same way. 
+
+At the end of 3 ages whomever has the most glory is the winner. 
 
 ## Review 
-If you like strategy games and want to work with your friends you will love this game! It is a nice change of pace from being super competitive to being able to being able to team up. This game offers a lot of replayability as the mages, monsters, and cards you use can be changed every game meaning you never have to play the game game twice, unless you want to. The game becomes a lot more odd with 3 people compared to 4 and 2 because of a few slight mechanical differences. Overall though, I highly reccomend this game, especially for seeing how a team may work together. 
+I adore this game. It limits luck and forces you to adapt strategies quickly. The cards synergize well together if you can make them and allows for creative strategy. The norse mythology theme works well too and this is brought to life in the miniatures. The miniatures may be the best in board games and if you really want to take the beatiful design to the next level you can even paint them. Everything about this game excites me and keeps me playing. 
 
 #### Overall Grade 
-# 8/10
+# 9.5/10
