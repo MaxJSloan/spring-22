@@ -1,11 +1,11 @@
 ---
-title: Scythe - Stonemaier Games 
-description: Scythe Game Review 
+title: Blood Rage - Cool Mini or Not
+description: Blood Rage Game Review
 date: 2022-05-01
 tags: Strategy Game
-  - Faction vs Faction
-  - Engine-Builder 
-  - Territory Builder
+  - Card-Drafting
+  - PVP
+  - Norse Mythology
 layout: layouts/post.njk
 ---
 
